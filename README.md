@@ -10,11 +10,11 @@ This version of our application have 85% of features completed.
 
 1. Member 1
 
-   - Name:- [Ashish Nagpal](ashish.nagpal@dal.ca)
+   - Name:- [Yogish Honnadevipura Gopalakrishna](yg926299@dal.ca)
 
 2. Member 2
 
-   - Name:- [Aiwin Charalil Manuel](aiwin.manuel@dal.ca)
+   - Name:- [Ashish Nagpal](ashish.nagpal@dal.ca)
 
 3. Member 3
 
@@ -29,7 +29,8 @@ This version of our application have 85% of features completed.
    - Name:- [Arihant Dugar](arihant.dugar@dal.ca)
 
 6. Member 6
-   - Name:- [Yogish Honnadevipura Gopalakrishna](yg926299@dal.ca)
+   
+   - Name:- [Aiwin Charalil Manuel](aiwin.manuel@dal.ca)
 
 
 ## Links
