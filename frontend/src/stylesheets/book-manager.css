@@ -1,0 +1,75 @@
+/* Author - Arihant Dugar */
+
+.book-manager-div {
+    width: 100%;
+    height: 100%; 
+    background-color: rgba(252, 232, 199, 1) !important;
+}
+
+.book-manager-div .container {
+    padding-top: 20px;
+}
+
+.book-cards {
+    margin: 10px;
+}
+
+.book-cards img {
+    margin-right: 10px;
+}
+
+#search-div {
+    margin-top: 20px;
+}
+
+.modal-header {
+    border: none !important;
+}
+
+.modal-footer {
+    border: none !important;
+}
+
+#delete-confirmation .modal-title {
+    color: var(--primary-color);
+}
+
+.add-book-btn.btn-primary {
+    background: var(--primary-color);
+    border-color: var(--primary-color);
+}
+
+.add-book-btn.btn-primary:hover {
+    background: var(--secondary-color);
+    border-color: var(--secondary-color);
+}
+
+.edit-btn.btn-primary {
+    background: var(--primary-color);
+    border-color: var(--primary-color);
+}
+
+.edit-btn.btn-primary:hover {
+    background: var(--secondary-color);
+    border-color: var(--secondary-color);
+}
+
+.cancel-btn.btn-outline-primary {
+    border-color: var(--primary-color-dark);
+    color: var(--primary-color-dark);
+}
+
+.cancel-btn.btn-outline-primary:hover {
+    background: var(--secondary-color);
+    border-color: var(--secondary-color);
+}
+
+.delete-btn.btn-primary {
+    background: var(--primary-color);
+    border-color: var(--primary-color);
+}
+
+.delete-btn.btn-primary:hover {
+    background: var(--secondary-color);
+    border-color: var(--secondary-color);
+}
