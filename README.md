@@ -11,31 +11,26 @@ This version of our application have 85% of features completed.
 1. Member 1
 
    - Name:- [Ashish Nagpal](ashish.nagpal@dal.ca)
-   - Branch Name:- ashish-nagpal
 
 2. Member 2
 
    - Name:- [Aiwin Charalil Manuel](aiwin.manuel@dal.ca)
-   - Branch Name:- Aiwin_Charalil_Manuel
 
 3. Member 3
 
    - Name:- [Jinal Dave](jinal.dave@dal.ca)
-   - Branch Name:- jinal-dave
 
 4. Member 4
 
    - [Abhinav Acharya Tirumala Vinjamuri](ab806657@dal.ca)
-   - Branch Name:- Abhinav_Acharya
 
 5. Member 5
 
    - Name:- [Arihant Dugar](arihant.dugar@dal.ca)
-   - Branch Name:- arihant-dugar
 
 6. Member 6
    - Name:- [Yogish Honnadevipura Gopalakrishna](yg926299@dal.ca)
-   - Branch Name:- yogish
+
 
 ## Links
 
