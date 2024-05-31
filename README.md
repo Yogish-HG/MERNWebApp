@@ -35,9 +35,8 @@ This version of our application have 85% of features completed.
 
 ## Links
 
-1. Gitlab Repo: https://git.cs.dal.ca/anagpal/csci-5709-grp-13/-/tree/main?ref_type=heads
-2. Frontend Deployment Link - Netlify: https://bookstack-csci-group-13.netlify.app/
-3. Backend Deployment Link - Render: https://bookstack-grp13.onrender.com
+1. Frontend Deployment Link - Netlify: https://bookstack-csci-group-13.netlify.app/
+2. Backend Deployment Link - Render: https://bookstack-grp13.onrender.com
 
 ## Login Details for testing
 
