@@ -48,18 +48,6 @@ This version of our application have 85% of features completed.
 - Username: ab806657@dal.ca
 - Password: pass@1234
 
-# Installing
-
-1. Clone the project repository by using the URL - https://git.cs.dal.ca/anagpal/csci-5709-grp-13
-
-2. Go into the project directory and install the required dependency for frontend and backend application using ```npm install``` command.
-
-3. Set up the environment variables by looking at the ``.env.example`` file
-
-4. Once the dependencies are installed, start the development server by ```npm start``` command.
-
-5. The server for frontend application will be running on port - 3000 [http://localhost:3000](http://localhost:3000). For backend the server will be running on port 8080.
-
 # Deployment
 
 This directory contains a stable deployement version of the application. The ```front-end``` is deployed on Netlify which we configured by adding a remote that pushes the code to GitHub. The ```backend``` is deployed on Render using the same process. We have employed ```MongoDB``` for the database.
