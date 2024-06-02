@@ -43,16 +43,6 @@ This version of our application have 85% of features completed.
 1. Frontend Deployment Link - Netlify: https://bookstack-csci-group-13.netlify.app/
 2. Backend Deployment Link - Render: https://bookstack-grp13.onrender.com
 
-## Login Details for testing
-
-### Admin login credentials
-- Username: abhinava465@gmail.com
-- Password: securepassword
-
-### Reader login credentials
-- Username: ab806657@dal.ca
-- Password: pass@1234
-
 # Deployment
 
 This directory contains a stable deployement version of the application. The ```front-end``` is deployed on Netlify which we configured by adding a remote that pushes the code to GitHub. The ```backend``` is deployed on Render using the same process. We have employed ```MongoDB``` for the database.
