@@ -59,6 +59,9 @@ Deployment for backend server is done on **Render**. ![](https://img.shields.io/
 
 # Project Overview
 
+The project, Book Stack: Bridging the gap between libraries and loyal readers in this digital age, is a web application designed to revolutionize the way we interact with books and libraries. The project is primarily aimed at digitalizing libraries, transforming the way librarians and readers interact with the library’s resources. 
+This project aims to bring libraries into the digital age, making books more accessible and promoting a culture of reading and sharing within a vibrant community. It’s not just about borrowing books; it’s about fostering a love for reading and creating a space where book lovers can share their experiences.
+
 ## 1. Details
 
 ### Landing Page
