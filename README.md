@@ -5,11 +5,7 @@ This project aims to bring libraries into the digital age, making books more acc
 
 # CSCI 5709 Grp-13
 
-Group project for 5709 Advanced Web services of Master's course.
-
-# Book Stack - v3
-
-This version of our application have 85% of features completed. 
+Group project for 5709 Advanced Web services of Master's course. 
 
 ## Authors
 
